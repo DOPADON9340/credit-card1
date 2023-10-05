@@ -1,0 +1,105 @@
+.container{
+  position:absolute;
+}
+.image2{
+  position:absolute;
+  left:17rem;
+  top:15rem;
+ 
+}
+.image3{
+  position:absolute;
+  top:33rem;
+  left:21rem;
+  border-radius:10px;
+}
+.image1{
+  height:100%;
+  width:40rem;
+}
+.holder{
+  position:absolute;
+  top:15rem;
+  right:20rem;
+  color:#5d045d;
+}
+.name{
+  height:1.5rem;
+  width: 18rem;
+  border-radius:5px;
+}
+.cardnumber{
+  height:1.5rem;
+  width: 18rem;
+  border-radius:5px;
+}
+.date{
+  height:1.5rem;
+  width:4rem;
+  border-radius:3px;  
+}
+
+input.CVV{
+  height:1.5rem;
+  width:3rem;
+  border-radius:3px;
+  position:absolute;
+  top:20rem;
+  right:11rem;
+}
+.CVV{
+  position:absolute;
+  top:20rem;
+  right:16rem;
+}
+.confirm{
+  color:white;
+  background-color:purple;
+  position:absolute;
+  top:30rem;
+  right:0rem;
+  width:20rem;
+  height:2.5rem;
+  border-radius:5px;
+}
+p{
+  font-size:1.5rem;
+}
+.error{
+  color:red;
+  font-size:1rem;
+}
+.errorcvv{
+  color:red;
+  font-size:1rem;
+  position:absolute;
+  top:22rem;
+}
+.type1{
+  color:grey;
+  position:absolute;
+  top:27rem;
+  left:19rem;
+  font-size:1.2rem;
+}
+.type2{
+  color:grey;
+  position:absolute;
+  top:18rem;
+  left:21rem;
+  font-size:2rem;
+}
+.type3{
+  color:grey;
+  position:absolute;
+  top:27rem;
+  left:38rem;
+  font-size:1.2rem;
+}
+.type4{
+  color:grey;
+  position:absolute;
+  top:35rem;
+  left:44rem;
+  font-size:1.5rem;
+}
